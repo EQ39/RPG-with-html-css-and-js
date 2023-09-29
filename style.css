@@ -1,0 +1,38 @@
+body{
+    background-color: azure;
+ 
+}
+#school{
+    background-color: blueviolet;
+    margin-right: 50%;
+}
+#username{
+    background-color: brown;
+}
+/*div{
+    margin: 0px;
+    border-width:2px;
+border-style: 10px solid;
+outline-style: dotted;
+border-color:rgb(211, 205, 205);
+padding: 40px 10px;
+h1.heading{
+    margin-right: inherit;
+    color: blueviolet;
+}
+}*/
+.dropdownbutton{
+    background-color: whitesmoke;
+    cursor: pointer;
+}
+.dropdownmenu a{
+    position: relative;
+    display: inline-block;
+}
+div[class="dropdownmenu"]{
+    position: absolute;
+    background-color: aquamarine;
+    display: inline-table;
+    padding: 3px;
+}
+
